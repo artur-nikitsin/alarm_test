@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid green;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+#dateInput {
+    margin: 40px;
+}
